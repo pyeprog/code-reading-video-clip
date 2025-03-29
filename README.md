@@ -1,10 +1,13 @@
 # code-reading-video-clip
 
+[English version](./README-en.md)
+
 ## TL;DR
 
 在AI工具盛行的2025年，为何程序员仍旧要花50%的工作时间来读代码？本视频将对你代码阅读技巧进行结构化重构，教你用系统化方法快速读任何项目.
 
 - 🔗[bilibili](https://www.bilibili.com/video/BV15Ko9YZEQQ/?vd_source=28f0d0a6008a195ecde014a421def1d5)
+- 🔗[youtube](https://youtu.be/wdqL7n8grm0)
 
 ### 👉 适合人群
 
@@ -72,9 +75,9 @@ AtomicViz是一款强大的代码结构图生成器, 可以生成代码的调用
 
 ## 🔌 Vscode插件
 
-- AtomicViz: 2025年新出的插件, 用来找到模块或者类的入口方法, 方法之间的依赖关系等等. 能够免费使用.
-- Codetour: 可以作为笔记工具, 或者录制代码教程笔记, 笔记可以跟随git branch或者commit. 能够免费使用.
-- Navigation History: 记录跳转历史, 并把访问的symbol以代码本身的调用结构去组织成树, 另外会统计symbol被访问的次数, 以此来统计代码浏览的热区symbol, 它们通常是重点或者难点. 免费使用.
+- [AtomicViz](https://marketplace.visualstudio.com/items?itemName=AtomicConcepts.atomicviz): 2025年新出的插件, 用来找到模块或者类的入口方法, 方法之间的依赖关系等等. 能够免费使用. 强烈推荐!
+- [Codetour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour): 可以作为笔记工具, 或者录制代码教程笔记, 笔记可以跟随git branch或者commit. 能够免费使用. 推荐!
+- [Navigation History](https://marketplace.visualstudio.com/items?itemName=WaylongLeon.navigation-history): 记录跳转历史, 并把访问的symbol以代码本身的调用结构去组织成树, 另外会统计symbol被访问的次数, 以此来统计代码浏览的热区symbol, 它们通常是重点或者难点. 免费使用. 推荐!
 
 ## 🤝 如果对你有帮助
 
